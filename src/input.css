@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    --breakpoint-md: 35rem;
+}
+
+.box {
+    @apply w-24 aspect-square rounded-2xl border-none shadow-stone-800 text-[#F72C25] bg-[#A9E5BB],
+
+}
